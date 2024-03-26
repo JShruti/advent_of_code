@@ -29,7 +29,7 @@ function countIncreasingDepths(depths) {
 }
 
 // This is the path to your input file
-const inputFile = 'input.txt';
+const inputFile = 'input1.txt';
 
 // parsing  the depth measurements
 const depths = readSonarSweep(inputFile);
